@@ -1,0 +1,25 @@
+<section>
+    <h2>Entre como Participante</h2>
+    <form action="/enterroom" method="POST">
+        <label class="screen-only" for="room-id">Código da Sala</label>
+        <!--A label é ligada ao input text pelo FOR="room-id" .... e a class sr-only irá deixar o label invisivel para os navegadores e visivel para acessibilidade-->
+        <input name="roomId" type="number" maxlength="7" id="room-id" placeholder="Código da Sala">
+        <button>
+            <img src="/images/button entrar sala.svg" alt="Entrar na sala"/>
+            Entrar na sala
+        </button>
+    </form>
+</section>
+
+<div class="separator">
+    <div></div>
+    <div>ou</div>
+    <div></div>
+</div>
+
+<section>
+    <h2>Facilmente, crie sua própria sala</h2>
+    <a href="/create-room" class="button outlined">
+        <img src="/images/users 1.svg" alt="Criar Sala" />Criar Sala</a>
+    </a>
+</section>
