@@ -1,9 +1,6 @@
-# Rocket.Q_NLW6_Discover-
-Projeto criado para a missão discover na NLW#6 da plataforma Rocketseat
-
 ## 💻 Project
 <p>Rocket.Q_NLW6_Discover</p>
-<p>T</p>
+<p>Project created for the discover mission in NLW#6 of the Rocketseat platform.</p>
 
 <hr/>
 
